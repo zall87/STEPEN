@@ -18,10 +18,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6283167714830','62895336722950','6287721317870','6288292024190']
-global.premium = ['6288292024190']
+global.owner = ['62895330006855','62895328100953','6289509517001','6283847931994']
+global.premium = ['62895328100953']
 global.packname = 'Hisoka Morrow'
-global.author = 'WhatsApp Bot'
+global.author = '𝐒𝐀𝐌𝐒𝐔𝐃𝐈𝐍'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
